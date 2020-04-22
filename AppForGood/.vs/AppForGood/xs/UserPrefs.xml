@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{136CDE6E-DEF7-4CA8-B716-BD21D3B05114}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".vs/AppForGood/xs/UserPrefs.xml">
+    <Files>
+      <File FileName=".vs/AppForGood/xs/UserPrefs.xml" Line="23" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppForGood" expanded="True" selected="True">
+            <Node name="AppForGood" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppForGood PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kartik.sharma/.dotnet/store/|arch|/|tfm|",
+      "/Users/kartik.sharma/.nuget/packages"
+    ]
+  }
+}
